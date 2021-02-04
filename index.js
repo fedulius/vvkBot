@@ -1,4 +1,4 @@
-const token = "1656841759:AAEE2kjBr8sjTwkunLKcxKmMbtQ_ue4m1pY";
+const token = "";
 const bot = new (require('node-telegram-bot-api'))(token, { polling: true });
 
 const appeal = [
